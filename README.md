@@ -19,7 +19,8 @@ The system works completely offline and enables real-time AI responses without r
 
 ## Architecture
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/34c21fe1-4ae3-4a24-84a1-070d0ccbf6cb" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/dad3c6c5-3ee7-4397-9329-de410f8abe87" />
+
 
 
 ---
